@@ -136,7 +136,6 @@ Rename the config.json.example to config.json<br>
   - **mildom**: enable Mildom scheduler
   - **twitter**: enable Twitter Spaces scheduler
 - **intervals**: self-explanatory, all of those are in cron-style time<br>
-  If you need help refer here: [crontab.guru](https://crontab.guru/)<br>
   You can also disable the workers by putting `null` instead of the crontab styles
 - filters:
   - **exclude**: Exclude a `channel_ids` and `groups` from being processed
